@@ -1,5 +1,4 @@
 # Energy-Efficiency-Model-for-Building
-
 # Predicting two real valued responses (heating vs cooling load) using 8 features
 
 This notebook looks into using various Python-based machine learning and data science libraries in an attempt to build a machine learning model capable of predicting the building heating load and cooling load based on the features available.
